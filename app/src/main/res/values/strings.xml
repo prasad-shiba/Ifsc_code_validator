@@ -1,0 +1,26 @@
+<resources>
+<string name="app_name">IFSC Code Validator</string>
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="bank">BANK :</string>
+<string name="ifsc">IFSC :</string>
+<string name="branch">BRANCH :</string>
+<string name="address">ADDRESS :</string>
+<string name="contact">CONTACT :</string>
+<string name="state">STATE :</string>
+<string name="swift">SWIFT :</string>
+<string name="imps">IMPS :</string>
+<string name="upi">UPI :</string>
+<string name="neft">NEFT :</string>
+<string name="rtgs">RTGS :</string>
+<string name="bank_code">BANK CODE :</string>
+<string name="getbankdetails">GET BANK DETAILS</string>
+<string name="district">DISTRICT :</string>
+<string name="ifsc_code">IFSC code</string>
+<string name="share">Share this app</string>
+<string name="feedback">Send Feedback</string>
+<string name="about_developer">About Developer</string>
+<string name="github">https://github.com/prasad-shiba</string>
+<string name="linkedin">https://www.linkedin.com/in/prasad-shiba/</string>
+<string name="instagram">https://www.instagram.com/_prasadshiba/</string>
+    <string name="micr">MICR :</string>
+</resources>
